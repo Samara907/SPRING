@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>location = /test/test.jsp</title>
+<title>location = /test/filedownload.jsp</title>
 </head>
 <body>
-	<form action="/spring/test.do" enctype="multipart/form-data" method="post">
-		upload<input type="file" name="upload"/><br />
-			  <input type="submit" value="업로드"/>
-	</form>
+	FILE DOWNLOAD SUCCESS
 </body>
 </html>
